@@ -1,0 +1,8 @@
+.board {
+  width: 100rem;
+  overflow: auto;
+}
+
+.row {
+  float:left;
+}
